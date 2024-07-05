@@ -1,0 +1,1137 @@
+[
+    {
+        "ID": 1,
+        "Chaikh": "أحمد الحذيفي",
+        "URL": "https://mp3quran.net/ar/ahmad_huth"
+    },
+    {
+        "ID": 2,
+        "Chaikh": "أحمد الحواشي",
+        "URL": "https://mp3quran.net/ar/hawashi"
+    },
+    {
+        "ID": 3,
+        "Chaikh": "أحمد السويلم",
+        "URL": "https://mp3quran.net/ar/swlim"
+    },
+    {
+        "ID": 4,
+        "Chaikh": "أحمد الطرابلسي",
+        "URL": "https://mp3quran.net/ar/trabulsi-qalon"
+    },
+    {
+        "ID": 5,
+        "Chaikh": "أحمد النفيس",
+        "URL": "https://mp3quran.net/ar/nufais"
+    },
+    {
+        "ID": 6,
+        "Chaikh": "أحمد بن علي العجمي",
+        "URL": "https://mp3quran.net/ar/ajm"
+    },
+    {
+        "ID": 7,
+        "Chaikh": "أحمد خليل شاهين",
+        "URL": "https://mp3quran.net/ar/shaheen"
+    },
+    {
+        "ID": 8,
+        "Chaikh": "أحمد ديبان",
+        "URL": "https://mp3quran.net/ar/deban"
+    },
+    {
+        "ID": 9,
+        "Chaikh": "أحمد سعود",
+        "URL": "https://mp3quran.net/ar/saud"
+    },
+    {
+        "ID": 10,
+        "Chaikh": "أحمد صابر",
+        "URL": "https://mp3quran.net/ar/saber"
+    },
+    {
+        "ID": 11,
+        "Chaikh": "أحمد عامر",
+        "URL": "https://mp3quran.net/ar/Aamer"
+    },
+    {
+        "ID": 12,
+        "Chaikh": "أحمد عيسى المعصراوي",
+        "URL": "https://mp3quran.net/ar/ahmd-aays-lmaasr-oy"
+    },
+    {
+        "ID": 13,
+        "Chaikh": "أحمد نعينع",
+        "URL": "https://mp3quran.net/ar/ahmad_nu"
+    },
+    {
+        "ID": 14,
+        "Chaikh": "أخيل عبدالحي روا",
+        "URL": "https://mp3quran.net/ar/akil"
+    },
+    {
+        "ID": 15,
+        "Chaikh": "أكرم العلاقمي",
+        "URL": "https://mp3quran.net/ar/akrm"
+    },
+    {
+        "ID": 16,
+        "Chaikh": "أنس العمادي",
+        "URL": "https://mp3quran.net/ar/a_alemadi"
+    },
+    {
+        "ID": 17,
+        "Chaikh": "إبراهيم الأخضر",
+        "URL": "https://mp3quran.net/ar/akdr"
+    },
+    {
+        "ID": 18,
+        "Chaikh": "إبراهيم كشيدان",
+        "URL": "https://mp3quran.net/ar/br-hym-kshyd-n"
+    },
+    {
+        "ID": 19,
+        "Chaikh": "إدريس أبكر",
+        "URL": "https://mp3quran.net/ar/abkr"
+    },
+    {
+        "ID": 20,
+        "Chaikh": "إسلام صبحي",
+        "URL": "https://mp3quran.net/ar/islam"
+    },
+    {
+        "ID": 21,
+        "Chaikh": "إبراهيم الجبرين",
+        "URL": "https://mp3quran.net/ar/jbreen"
+    },
+    {
+        "ID": 22,
+        "Chaikh": "إبراهيم الجرمي",
+        "URL": "https://mp3quran.net/ar/jormy"
+    },
+    {
+        "ID": 23,
+        "Chaikh": "إبراهيم الدوسري",
+        "URL": "https://mp3quran.net/ar/ibrahim-dosri"
+    },
+    {
+        "ID": 24,
+        "Chaikh": "إبراهيم السعدان",
+        "URL": "https://mp3quran.net/ar/IbrahemSadan"
+    },
+    {
+        "ID": 25,
+        "Chaikh": "إبراهيم العسيري",
+        "URL": "https://mp3quran.net/ar/3siri"
+    },
+    {
+        "ID": 26,
+        "Chaikh": "أستاذ زامري",
+        "URL": "https://mp3quran.net/ar/zamri"
+    },
+    {
+        "ID": 27,
+        "Chaikh": "الحسيني العزازي",
+        "URL": "https://mp3quran.net/ar/3zazi"
+    },
+    {
+        "ID": 28,
+        "Chaikh": "الدوكالي محمد العالم",
+        "URL": "https://mp3quran.net/ar/dokali"
+    },
+    {
+        "ID": 29,
+        "Chaikh": "الزين محمد أحمد",
+        "URL": "https://mp3quran.net/ar/alzain"
+    },
+    {
+        "ID": 30,
+        "Chaikh": "العشري عمران",
+        "URL": "https://mp3quran.net/ar/omran"
+    },
+    {
+        "ID": 31,
+        "Chaikh": "العيون الكوشي",
+        "URL": "https://mp3quran.net/ar/koshi"
+    },
+    {
+        "ID": 32,
+        "Chaikh": "الفاتح محمد الزبير",
+        "URL": "https://mp3quran.net/ar/fateh"
+    },
+    {
+        "ID": 33,
+        "Chaikh": "القارئ ياسين",
+        "URL": "https://mp3quran.net/ar/qari"
+    },
+    {
+        "ID": 34,
+        "Chaikh": "أحمد طالب بن حميد",
+        "URL": "https://mp3quran.net/ar/a_binhameed"
+    },
+    {
+        "ID": 35,
+        "Chaikh": "بدر التركي",
+        "URL": "https://mp3quran.net/ar/bader"
+    },
+    {
+        "ID": 36,
+        "Chaikh": "بندر بليله",
+        "URL": "https://mp3quran.net/ar/balilah"
+    },
+    {
+        "ID": 37,
+        "Chaikh": "بيشه وا قادر الكردي",
+        "URL": "https://mp3quran.net/ar/peshawa"
+    },
+    {
+        "ID": 38,
+        "Chaikh": "توفيق الصايغ",
+        "URL": "https://mp3quran.net/ar/twfeeq"
+    },
+    {
+        "ID": 39,
+        "Chaikh": "جمال الدين الزيلعي",
+        "URL": "https://mp3quran.net/ar/zilaie"
+    },
+    {
+        "ID": 40,
+        "Chaikh": "جمال شاكر عبدالله",
+        "URL": "https://mp3quran.net/ar/jamal"
+    },
+    {
+        "ID": 41,
+        "Chaikh": "جمعان العصيمي",
+        "URL": "https://mp3quran.net/ar/jaman"
+    },
+    {
+        "ID": 42,
+        "Chaikh": "حاتم فريد الواعر",
+        "URL": "https://mp3quran.net/ar/hatem"
+    },
+    {
+        "ID": 43,
+        "Chaikh": "حسن صالح",
+        "URL": "https://mp3quran.net/ar/mhsn-s-lh"
+    },
+    {
+        "ID": 44,
+        "Chaikh": "حسين آل الشيخ",
+        "URL": "https://mp3quran.net/ar/alshaik"
+    },
+    {
+        "ID": 45,
+        "Chaikh": "حمد الدغريري",
+        "URL": "https://mp3quran.net/ar/hamad"
+    },
+    {
+        "ID": 46,
+        "Chaikh": "خالد الجليل",
+        "URL": "https://mp3quran.net/ar/jleel"
+    },
+    {
+        "ID": 47,
+        "Chaikh": "خالد الشارخ",
+        "URL": "https://mp3quran.net/ar/sharekh"
+    },
+    {
+        "ID": 48,
+        "Chaikh": "خالد الشريمي",
+        "URL": "https://mp3quran.net/ar/shoraimy"
+    },
+    {
+        "ID": 49,
+        "Chaikh": "خالد الغامدي",
+        "URL": "https://mp3quran.net/ar/ghamdi"
+    },
+    {
+        "ID": 50,
+        "Chaikh": "خالد القحطاني",
+        "URL": "https://mp3quran.net/ar/qht"
+    },
+    {
+        "ID": 51,
+        "Chaikh": "خالد المهنا",
+        "URL": "https://mp3quran.net/ar/mohna"
+    },
+    {
+        "ID": 52,
+        "Chaikh": "خالد الوهيبي",
+        "URL": "https://mp3quran.net/ar/whabi"
+    },
+    {
+        "ID": 53,
+        "Chaikh": "خالد عبدالكافي",
+        "URL": "https://mp3quran.net/ar/kafi"
+    },
+    {
+        "ID": 54,
+        "Chaikh": "خالد كريم محمدي",
+        "URL": "https://mp3quran.net/ar/kh-ld-krym-mhmdy"
+    },
+    {
+        "ID": 55,
+        "Chaikh": "خليفة الطنيجي",
+        "URL": "https://mp3quran.net/ar/tnjy"
+    },
+    {
+        "ID": 56,
+        "Chaikh": "داود حمزة",
+        "URL": "https://mp3quran.net/ar/hamza"
+    },
+    {
+        "ID": 57,
+        "Chaikh": "رامي الدعيس",
+        "URL": "https://mp3quran.net/ar/rami"
+    },
+    {
+        "ID": 58,
+        "Chaikh": "رشيد إفراد",
+        "URL": "https://mp3quran.net/ar/ifrad"
+    },
+    {
+        "ID": 59,
+        "Chaikh": "رشيد بلعالية",
+        "URL": "https://mp3quran.net/ar/bl3-warsh"
+    },
+    {
+        "ID": 60,
+        "Chaikh": "رضية عبدالرحمن",
+        "URL": "https://mp3quran.net/ar/rziah"
+    },
+    {
+        "ID": 61,
+        "Chaikh": "رعد محمد الكردي",
+        "URL": "https://mp3quran.net/ar/kurdi"
+    },
+    {
+        "ID": 62,
+        "Chaikh": "رقية سولونق",
+        "URL": "https://mp3quran.net/ar/rogiah"
+    },
+    {
+        "ID": 63,
+        "Chaikh": "رمضان شكور",
+        "URL": "https://mp3quran.net/ar/shakoor"
+    },
+    {
+        "ID": 64,
+        "Chaikh": "زكريا حمامة",
+        "URL": "https://mp3quran.net/ar/zakariya"
+    },
+    {
+        "ID": 65,
+        "Chaikh": "زكي داغستاني",
+        "URL": "https://mp3quran.net/ar/zaki"
+    },
+    {
+        "ID": 66,
+        "Chaikh": "سابينة مامات",
+        "URL": "https://mp3quran.net/ar/mamat"
+    },
+    {
+        "ID": 67,
+        "Chaikh": "سامي الحسن",
+        "URL": "https://mp3quran.net/ar/sami_hsn"
+    },
+    {
+        "ID": 68,
+        "Chaikh": "سامي الدوسري",
+        "URL": "https://mp3quran.net/ar/sami_dosr"
+    },
+    {
+        "ID": 69,
+        "Chaikh": "سعد الغامدي",
+        "URL": "https://mp3quran.net/ar/s_gmd"
+    },
+    {
+        "ID": 70,
+        "Chaikh": "سعد المقرن",
+        "URL": "https://mp3quran.net/ar/saad"
+    },
+    {
+        "ID": 71,
+        "Chaikh": "سعود الشريم",
+        "URL": "https://mp3quran.net/ar/shur"
+    },
+    {
+        "ID": 72,
+        "Chaikh": "سلمان الصديق",
+        "URL": "https://mp3quran.net/ar/slm-n-lsdyk"
+    },
+    {
+        "ID": 73,
+        "Chaikh": "سلمان العتيبي",
+        "URL": "https://mp3quran.net/ar/salman"
+    },
+    {
+        "ID": 74,
+        "Chaikh": "سهل ياسين",
+        "URL": "https://mp3quran.net/ar/shl"
+    },
+    {
+        "ID": 75,
+        "Chaikh": "سيد أحمد هاشمي",
+        "URL": "https://mp3quran.net/ar/syd-ahmd-h-shmy"
+    },
+    {
+        "ID": 76,
+        "Chaikh": "سيد رمضان",
+        "URL": "https://mp3quran.net/ar/sayed"
+    },
+    {
+        "ID": 77,
+        "Chaikh": "سيدين عبدالرحمن",
+        "URL": "https://mp3quran.net/ar/sideen"
+    },
+    {
+        "ID": 78,
+        "Chaikh": "شعبان الصياد",
+        "URL": "https://mp3quran.net/ar/shaban"
+    },
+    {
+        "ID": 79,
+        "Chaikh": "شيخ أبو بكر الشاطري",
+        "URL": "https://mp3quran.net/ar/shatri"
+    },
+    {
+        "ID": 80,
+        "Chaikh": "شيرزاد عبدالرحمن طاهر",
+        "URL": "https://mp3quran.net/ar/taher"
+    },
+    {
+        "ID": 81,
+        "Chaikh": "صابر عبدالحكم",
+        "URL": "https://mp3quran.net/ar/hkm"
+    },
+    {
+        "ID": 82,
+        "Chaikh": "صالح آل طالب",
+        "URL": "https://mp3quran.net/ar/tlb"
+    },
+    {
+        "ID": 83,
+        "Chaikh": "صالح الشمراني",
+        "URL": "https://mp3quran.net/ar/shamrani"
+    },
+    {
+        "ID": 84,
+        "Chaikh": "صالح الصاهود",
+        "URL": "https://mp3quran.net/ar/sahood"
+    },
+    {
+        "ID": 85,
+        "Chaikh": "صالح القريشي",
+        "URL": "https://mp3quran.net/ar/s-lh-lkryshy"
+    },
+    {
+        "ID": 86,
+        "Chaikh": "صالح الهبدان",
+        "URL": "https://mp3quran.net/ar/habdan"
+    },
+    {
+        "ID": 87,
+        "Chaikh": "صلاح البدير",
+        "URL": "https://mp3quran.net/ar/s_bud"
+    },
+    {
+        "ID": 88,
+        "Chaikh": "صلاح الهاشم",
+        "URL": "https://mp3quran.net/ar/salah_hashim_m"
+    },
+    {
+        "ID": 89,
+        "Chaikh": "صلاح بو خاطر",
+        "URL": "https://mp3quran.net/ar/bu_khtr"
+    },
+    {
+        "ID": 90,
+        "Chaikh": "صلاح مصلي",
+        "URL": "https://mp3quran.net/ar/musali"
+    },
+    {
+        "ID": 91,
+        "Chaikh": "طارق عبدالغني دعوب",
+        "URL": "https://mp3quran.net/ar/tareq"
+    },
+    {
+        "ID": 92,
+        "Chaikh": "عبدالرحمن السويّد",
+        "URL": "https://mp3quran.net/ar/a_swaiyd"
+    },
+    {
+        "ID": 93,
+        "Chaikh": "عبدالله المشعل",
+        "URL": "https://mp3quran.net/ar/aabd-llh-lmshaal"
+    },
+    {
+        "ID": 94,
+        "Chaikh": "عبدالعزيز سحيم",
+        "URL": "https://mp3quran.net/ar/aabd-laazyz-shym"
+    },
+    {
+        "ID": 95,
+        "Chaikh": "عادل الكلباني",
+        "URL": "https://mp3quran.net/ar/a_klb"
+    },
+    {
+        "ID": 96,
+        "Chaikh": "عادل ريان",
+        "URL": "https://mp3quran.net/ar/ryan"
+    },
+    {
+        "ID": 97,
+        "Chaikh": "عبدالإله بن عون",
+        "URL": "https://mp3quran.net/ar/a_binaoun"
+    },
+    {
+        "ID": 98,
+        "Chaikh": "عبدالبارئ الثبيتي",
+        "URL": "https://mp3quran.net/ar/thubti"
+    },
+    {
+        "ID": 99,
+        "Chaikh": "عبدالبارئ محمد",
+        "URL": "https://mp3quran.net/ar/bari"
+    },
+    {
+        "ID": 100,
+        "Chaikh": "عبدالباسط عبدالصمد",
+        "URL": "https://mp3quran.net/ar/basit_mjwd"
+    },
+    {
+        "ID": 101,
+        "Chaikh": "عبدالرحمن السديس",
+        "URL": "https://mp3quran.net/ar/sds"
+    },
+    {
+        "ID": 102,
+        "Chaikh": "عبدالرحمن الشحات",
+        "URL": "https://mp3quran.net/ar/aabd-lrhmn-lshh-t"
+    },
+    {
+        "ID": 103,
+        "Chaikh": "عبدالرحمن العوسي",
+        "URL": "https://mp3quran.net/ar/aloosi"
+    },
+    {
+        "ID": 104,
+        "Chaikh": "عبدالرحمن الماجد",
+        "URL": "https://mp3quran.net/ar/a_majed"
+    },
+    {
+        "ID": 105,
+        "Chaikh": "عبدالرشيد صوفي",
+        "URL": "https://mp3quran.net/ar/soufi-1"
+    },
+    {
+        "ID": 106,
+        "Chaikh": "عبدالعزيز الأحمد",
+        "URL": "https://mp3quran.net/ar/a_ahmed"
+    },
+    {
+        "ID": 107,
+        "Chaikh": "عبدالعزيز التركي",
+        "URL": "https://mp3quran.net/ar/a_turki"
+    },
+    {
+        "ID": 108,
+        "Chaikh": "عبدالعزيز الزهراني",
+        "URL": "https://mp3quran.net/ar/zahrani"
+    },
+    {
+        "ID": 109,
+        "Chaikh": "عبدالعزيز العسيري",
+        "URL": "https://mp3quran.net/ar/abdulazizasiri"
+    },
+    {
+        "ID": 110,
+        "Chaikh": "عبدالغني عبدالله",
+        "URL": "https://mp3quran.net/ar/abdulgani"
+    },
+    {
+        "ID": 111,
+        "Chaikh": "عبدالكريم الحازمي",
+        "URL": "https://mp3quran.net/ar/aabd-lkrym-lh-zmy-2"
+    },
+    {
+        "ID": 112,
+        "Chaikh": "عبدالله البريمي",
+        "URL": "https://mp3quran.net/ar/brmi"
+    },
+    {
+        "ID": 113,
+        "Chaikh": "عبدالله البعيجان",
+        "URL": "https://mp3quran.net/ar/buajan"
+    },
+    {
+        "ID": 114,
+        "Chaikh": "عبدالله الخلف",
+        "URL": "https://mp3quran.net/ar/khalf"
+    },
+    {
+        "ID": 115,
+        "Chaikh": "عبدالله الكندري",
+        "URL": "https://mp3quran.net/ar/Abdullahk"
+    },
+    {
+        "ID": 116,
+        "Chaikh": "عبدالله المطرود",
+        "URL": "https://mp3quran.net/ar/mtrod"
+    },
+    {
+        "ID": 117,
+        "Chaikh": "عبدالله الموسى",
+        "URL": "https://mp3quran.net/ar/mousa"
+    },
+    {
+        "ID": 118,
+        "Chaikh": "عبدالله بخاري",
+        "URL": "https://mp3quran.net/ar/a_bukhari"
+    },
+    {
+        "ID": 119,
+        "Chaikh": "عبدالله بصفر",
+        "URL": "https://mp3quran.net/ar/bsfr"
+    },
+    {
+        "ID": 120,
+        "Chaikh": "عبدالله خياط",
+        "URL": "https://mp3quran.net/ar/kyat"
+    },
+    {
+        "ID": 121,
+        "Chaikh": "عبدالله عبدل",
+        "URL": "https://mp3quran.net/ar/a_abdl"
+    },
+    {
+        "ID": 122,
+        "Chaikh": "عبدالله عواد الجهني",
+        "URL": "https://mp3quran.net/ar/jhn"
+    },
+    {
+        "ID": 123,
+        "Chaikh": "عبدالله غيلان",
+        "URL": "https://mp3quran.net/ar/gulan"
+    },
+    {
+        "ID": 124,
+        "Chaikh": "عبدالله فهمي",
+        "URL": "https://mp3quran.net/ar/fhmi"
+    },
+    {
+        "ID": 125,
+        "Chaikh": "عبدالله كامل",
+        "URL": "https://mp3quran.net/ar/kamel"
+    },
+    {
+        "ID": 126,
+        "Chaikh": "عبدالمجيد الأركاني",
+        "URL": "https://mp3quran.net/ar/m_arkani"
+    },
+    {
+        "ID": 127,
+        "Chaikh": "عبدالمحسن الحارثي",
+        "URL": "https://mp3quran.net/ar/mohsin_harthi"
+    },
+    {
+        "ID": 128,
+        "Chaikh": "عبدالمحسن العبيكان",
+        "URL": "https://mp3quran.net/ar/obk"
+    },
+    {
+        "ID": 129,
+        "Chaikh": "عبدالمحسن العسكر",
+        "URL": "https://mp3quran.net/ar/askr"
+    },
+    {
+        "ID": 130,
+        "Chaikh": "عبدالمحسن القاسم",
+        "URL": "https://mp3quran.net/ar/qasm"
+    },
+    {
+        "ID": 131,
+        "Chaikh": "عبدالملك العسكر",
+        "URL": "https://mp3quran.net/ar/aabd-lmlk-laaskr"
+    },
+    {
+        "ID": 132,
+        "Chaikh": "عبدالهادي أحمد كناكري",
+        "URL": "https://mp3quran.net/ar/kanakeri"
+    },
+    {
+        "ID": 133,
+        "Chaikh": "عبدالودود حنيف",
+        "URL": "https://mp3quran.net/ar/wdod"
+    },
+    {
+        "ID": 134,
+        "Chaikh": "عبدالولي الأركاني",
+        "URL": "https://mp3quran.net/ar/arkani"
+    },
+    {
+        "ID": 135,
+        "Chaikh": "عثمان الأنصاري",
+        "URL": "https://mp3quran.net/ar/Othmn"
+    },
+    {
+        "ID": 136,
+        "Chaikh": "عكاشة كميني",
+        "URL": "https://mp3quran.net/ar/okasha"
+    },
+    {
+        "ID": 137,
+        "Chaikh": "علي أبو هاشم",
+        "URL": "https://mp3quran.net/ar/abo_hashim"
+    },
+    {
+        "ID": 138,
+        "Chaikh": "علي بن عبدالرحمن الحذيفي",
+        "URL": "https://mp3quran.net/ar/hthfi"
+    },
+    {
+        "ID": 139,
+        "Chaikh": "علي جابر",
+        "URL": "https://mp3quran.net/ar/a_jbr"
+    },
+    {
+        "ID": 140,
+        "Chaikh": "علي حجاج السويسي",
+        "URL": "https://mp3quran.net/ar/hajjaj"
+    },
+    {
+        "ID": 141,
+        "Chaikh": "عماد زهير حافظ",
+        "URL": "https://mp3quran.net/ar/hafz"
+    },
+    {
+        "ID": 142,
+        "Chaikh": "عمر الدريويز",
+        "URL": "https://mp3quran.net/ar/darweez"
+    },
+    {
+        "ID": 143,
+        "Chaikh": "عمر القزابري",
+        "URL": "https://mp3quran.net/ar/omar_warsh"
+    },
+    {
+        "ID": 144,
+        "Chaikh": "عيسى عمر سناكو",
+        "URL": "https://mp3quran.net/ar/aays-aamr-sn-ko"
+    },
+    {
+        "ID": 145,
+        "Chaikh": "فيصل الهاجري",
+        "URL": "https://mp3quran.net/ar/fysl-lh-gry"
+    },
+    {
+        "ID": 146,
+        "Chaikh": "فؤاد الخامري",
+        "URL": "https://mp3quran.net/ar/f-d-lkh-mry"
+    },
+    {
+        "ID": 147,
+        "Chaikh": "فارس عباد",
+        "URL": "https://mp3quran.net/ar/frs_a"
+    },
+    {
+        "ID": 148,
+        "Chaikh": "فهد العتيبي",
+        "URL": "https://mp3quran.net/ar/fahad_otibi"
+    },
+    {
+        "ID": 149,
+        "Chaikh": "فهد الكندري",
+        "URL": "https://mp3quran.net/ar/kndri"
+    },
+    {
+        "ID": 150,
+        "Chaikh": "فواز الكعبي",
+        "URL": "https://mp3quran.net/ar/fawaz"
+    },
+    {
+        "ID": 151,
+        "Chaikh": "لافي العوني",
+        "URL": "https://mp3quran.net/ar/lafi"
+    },
+    {
+        "ID": 152,
+        "Chaikh": "محمد برهجي",
+        "URL": "https://mp3quran.net/ar/mhmd-brhgy"
+    },
+    {
+        "ID": 153,
+        "Chaikh": "مختار الحاج",
+        "URL": "https://mp3quran.net/ar/mukhtar_haj"
+    },
+    {
+        "ID": 154,
+        "Chaikh": "محمد أبو سنينة",
+        "URL": "https://mp3quran.net/ar/sneineh"
+    },
+    {
+        "ID": 155,
+        "Chaikh": "محمد الأمين قنيوة",
+        "URL": "https://mp3quran.net/ar/qeniwa"
+    },
+    {
+        "ID": 156,
+        "Chaikh": "محمد سايد",
+        "URL": "https://mp3quran.net/ar/m_sayed"
+    },
+    {
+        "ID": 157,
+        "Chaikh": "ماجد الزامل",
+        "URL": "https://mp3quran.net/ar/zaml"
+    },
+    {
+        "ID": 158,
+        "Chaikh": "ماجد العنزي",
+        "URL": "https://mp3quran.net/ar/majd_onazi"
+    },
+    {
+        "ID": 159,
+        "Chaikh": "مال الله عبدالرحمن الجابر",
+        "URL": "https://mp3quran.net/ar/m-l-llh-aabd-lrhmn-lg-br"
+    },
+    {
+        "ID": 160,
+        "Chaikh": "مالك شيبة الحمد",
+        "URL": "https://mp3quran.net/ar/shaibat"
+    },
+    {
+        "ID": 161,
+        "Chaikh": "ماهر المعيقلي",
+        "URL": "https://mp3quran.net/ar/maher"
+    },
+    {
+        "ID": 162,
+        "Chaikh": "ماهر شخاشيرو",
+        "URL": "https://mp3quran.net/ar/shaksh"
+    },
+    {
+        "ID": 163,
+        "Chaikh": "محمد أيوب",
+        "URL": "https://mp3quran.net/ar/ayyub"
+    },
+    {
+        "ID": 164,
+        "Chaikh": "محمد الأيراوي",
+        "URL": "https://mp3quran.net/ar/earawi"
+    },
+    {
+        "ID": 165,
+        "Chaikh": "محمد البخيت",
+        "URL": "https://mp3quran.net/ar/bukheet"
+    },
+    {
+        "ID": 166,
+        "Chaikh": "محمد البراك",
+        "URL": "https://mp3quran.net/ar/braak"
+    },
+    {
+        "ID": 167,
+        "Chaikh": "محمد الحافظ",
+        "URL": "https://mp3quran.net/ar/hafz-mal"
+    },
+    {
+        "ID": 168,
+        "Chaikh": "محمد الطبلاوي",
+        "URL": "https://mp3quran.net/ar/tblawi"
+    },
+    {
+        "ID": 169,
+        "Chaikh": "محمد اللحيدان",
+        "URL": "https://mp3quran.net/ar/lhdan"
+    },
+    {
+        "ID": 170,
+        "Chaikh": "محمد المحيسني",
+        "URL": "https://mp3quran.net/ar/mhsny"
+    },
+    {
+        "ID": 171,
+        "Chaikh": "محمد المنشد",
+        "URL": "https://mp3quran.net/ar/monshed"
+    },
+    {
+        "ID": 172,
+        "Chaikh": "محمد جبريل",
+        "URL": "https://mp3quran.net/ar/jbrl"
+    },
+    {
+        "ID": 173,
+        "Chaikh": "محمد حفص علي",
+        "URL": "https://mp3quran.net/ar/hfs"
+    },
+    {
+        "ID": 174,
+        "Chaikh": "محمد خليل القارئ",
+        "URL": "https://mp3quran.net/ar/m_qari"
+    },
+    {
+        "ID": 175,
+        "Chaikh": "محمد خير النور",
+        "URL": "https://mp3quran.net/ar/nor"
+    },
+    {
+        "ID": 176,
+        "Chaikh": "محمد رشاد الشريف",
+        "URL": "https://mp3quran.net/ar/rashad"
+    },
+    {
+        "ID": 177,
+        "Chaikh": "محمد رفعت",
+        "URL": "https://mp3quran.net/ar/refat"
+    },
+    {
+        "ID": 178,
+        "Chaikh": "محمد صالح عالم شاه",
+        "URL": "https://mp3quran.net/ar/shah"
+    },
+    {
+        "ID": 179,
+        "Chaikh": "محمد صديق المنشاوي",
+        "URL": "https://mp3quran.net/ar/minsh"
+    },
+    {
+        "ID": 180,
+        "Chaikh": "محمد عبدالحكيم سعيد العبدالله",
+        "URL": "https://mp3quran.net/ar/abdullah"
+    },
+    {
+        "ID": 181,
+        "Chaikh": "محمد عبدالكريم",
+        "URL": "https://mp3quran.net/ar/m_krm"
+    },
+    {
+        "ID": 182,
+        "Chaikh": "محمد عثمان خان",
+        "URL": "https://mp3quran.net/ar/khan"
+    },
+    {
+        "ID": 183,
+        "Chaikh": "محمود الرفاعي",
+        "URL": "https://mp3quran.net/ar/mrifai"
+    },
+    {
+        "ID": 184,
+        "Chaikh": "محمود الشيمي",
+        "URL": "https://mp3quran.net/ar/sheimy"
+    },
+    {
+        "ID": 185,
+        "Chaikh": "محمود خليل الحصري",
+        "URL": "https://mp3quran.net/ar/husr"
+    },
+    {
+        "ID": 186,
+        "Chaikh": "محمود عبدالحكم",
+        "URL": "https://mp3quran.net/ar/m_abdelhakam"
+    },
+    {
+        "ID": 187,
+        "Chaikh": "محمود علي البنا",
+        "URL": "https://mp3quran.net/ar/bna"
+    },
+    {
+        "ID": 188,
+        "Chaikh": "مروان العكري",
+        "URL": "https://mp3quran.net/ar/mr-on-laakry"
+    },
+    {
+        "ID": 189,
+        "Chaikh": "مشاري العفاسي",
+        "URL": "https://mp3quran.net/ar/afs"
+    },
+    {
+        "ID": 190,
+        "Chaikh": "مصطفى إسماعيل",
+        "URL": "https://mp3quran.net/ar/mustafa"
+    },
+    {
+        "ID": 191,
+        "Chaikh": "مصطفى اللاهوني",
+        "URL": "https://mp3quran.net/ar/lahoni"
+    },
+    {
+        "ID": 192,
+        "Chaikh": "مصطفى رعد العزاوي",
+        "URL": "https://mp3quran.net/ar/ra3ad"
+    },
+    {
+        "ID": 193,
+        "Chaikh": "معمر الأندونيسي",
+        "URL": "https://mp3quran.net/ar/muamr"
+    },
+    {
+        "ID": 194,
+        "Chaikh": "معيض الحارثي",
+        "URL": "https://mp3quran.net/ar/harthi"
+    },
+    {
+        "ID": 195,
+        "Chaikh": "مفتاح السلطني",
+        "URL": "https://mp3quran.net/ar/sultany"
+    },
+    {
+        "ID": 196,
+        "Chaikh": "منصور السالمي",
+        "URL": "https://mp3quran.net/ar/mansor"
+    },
+    {
+        "ID": 197,
+        "Chaikh": "موسى بلال",
+        "URL": "https://mp3quran.net/ar/bilal"
+    },
+    {
+        "ID": 198,
+        "Chaikh": "نورين محمد صديق",
+        "URL": "https://mp3quran.net/ar/nourin_siddig"
+    },
+    {
+        "ID": 199,
+        "Chaikh": "ناصر العبيد",
+        "URL": "https://mp3quran.net/ar/obaid"
+    },
+    {
+        "ID": 200,
+        "Chaikh": "ناصر العصفور",
+        "URL": "https://mp3quran.net/ar/alosfor"
+    },
+    {
+        "ID": 201,
+        "Chaikh": "ناصر القطامي",
+        "URL": "https://mp3quran.net/ar/qtm"
+    },
+    {
+        "ID": 202,
+        "Chaikh": "ناصر الماجد",
+        "URL": "https://mp3quran.net/ar/nasser_almajed"
+    },
+    {
+        "ID": 203,
+        "Chaikh": "نبيل الرفاعي",
+        "URL": "https://mp3quran.net/ar/nabil"
+    },
+    {
+        "ID": 204,
+        "Chaikh": "نذير المالكي",
+        "URL": "https://mp3quran.net/ar/nathier"
+    },
+    {
+        "ID": 205,
+        "Chaikh": "نعمة الحسان",
+        "URL": "https://mp3quran.net/ar/namh"
+    },
+    {
+        "ID": 206,
+        "Chaikh": "هيثم الدخين",
+        "URL": "https://mp3quran.net/ar/h_dukhain"
+    },
+    {
+        "ID": 207,
+        "Chaikh": "هارون بقائي",
+        "URL": "https://mp3quran.net/ar/h-ron-bk-y"
+    },
+    {
+        "ID": 208,
+        "Chaikh": "هاشم أبو دلال",
+        "URL": "https://mp3quran.net/ar/h-shm-abo-dl-l"
+    },
+    {
+        "ID": 209,
+        "Chaikh": "هاني الرفاعي",
+        "URL": "https://mp3quran.net/ar/hani"
+    },
+    {
+        "ID": 210,
+        "Chaikh": "هزاع البلوشي",
+        "URL": "https://mp3quran.net/ar/hazza"
+    },
+    {
+        "ID": 211,
+        "Chaikh": "هشام الهراز",
+        "URL": "https://mp3quran.net/ar/hsh-m-lhr-z"
+    },
+    {
+        "ID": 212,
+        "Chaikh": "هيثم الجدعاني",
+        "URL": "https://mp3quran.net/ar/hitham"
+    },
+    {
+        "ID": 213,
+        "Chaikh": "واصل المذن",
+        "URL": "https://mp3quran.net/ar/wasel"
+    },
+    {
+        "ID": 214,
+        "Chaikh": "وديع اليمني",
+        "URL": "https://mp3quran.net/ar/wdee3"
+    },
+    {
+        "ID": 215,
+        "Chaikh": "وشيار حيدر اربيلي",
+        "URL": "https://mp3quran.net/ar/wishear"
+    },
+    {
+        "ID": 216,
+        "Chaikh": "وليد الدليمي",
+        "URL": "https://mp3quran.net/ar/dlami"
+    },
+    {
+        "ID": 217,
+        "Chaikh": "وليد النائحي",
+        "URL": "https://mp3quran.net/ar/waleed"
+    },
+    {
+        "ID": 218,
+        "Chaikh": "ياسر الدوسري",
+        "URL": "https://mp3quran.net/ar/yasser"
+    },
+    {
+        "ID": 219,
+        "Chaikh": "ياسر الفيلكاوي",
+        "URL": "https://mp3quran.net/ar/fyl"
+    },
+    {
+        "ID": 220,
+        "Chaikh": "ياسر القرشي",
+        "URL": "https://mp3quran.net/ar/qurashi"
+    },
+    {
+        "ID": 221,
+        "Chaikh": "ياسر المزروعي",
+        "URL": "https://mp3quran.net/ar/mzroyee"
+    },
+    {
+        "ID": 222,
+        "Chaikh": "ياسر سلامة",
+        "URL": "https://mp3quran.net/ar/salamah"
+    },
+    {
+        "ID": 223,
+        "Chaikh": "يحيى حوا",
+        "URL": "https://mp3quran.net/ar/yahya"
+    },
+    {
+        "ID": 224,
+        "Chaikh": "يوسف الدغوش",
+        "URL": "https://mp3quran.net/ar/dgsh"
+    },
+    {
+        "ID": 225,
+        "Chaikh": "يوسف الشويعي",
+        "URL": "https://mp3quran.net/ar/yousef"
+    },
+    {
+        "ID": 226,
+        "Chaikh": "يوسف بن نوح أحمد",
+        "URL": "https://mp3quran.net/ar/noah"
+    },
+    {
+        "ID": 227,
+        "Chaikh": "يونس اسويلص",
+        "URL": "https://mp3quran.net/ar/souilass "
+    }
+]
